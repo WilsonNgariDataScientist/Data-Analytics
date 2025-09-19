@@ -1,0 +1,6 @@
+data-analytics-learning/
+│── README.md            → Overview of your journey
+│── python-basics/       → Scripts on Python (pandas, numpy, etc.)
+│── sql-practice/        → SQL queries, exercises
+│── data-visualizations/ → Matplotlib, Seaborn, Tableau dashboards
+│── mini-projects/       → Small projects (e.g., sales analysis, Kaggle datasets)
